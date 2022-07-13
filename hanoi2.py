@@ -1,3 +1,4 @@
+"""Torre de Hanoi"""
 def Hanoi(n, torreA, torreB, torreAux):
     if n == 1:
         # mover disco 1 da torreA para a torreB
