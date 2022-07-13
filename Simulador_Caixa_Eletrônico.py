@@ -1,3 +1,4 @@
+"""Programa simula um caixa eletrônico"""
 print('* * * Dispensador de Notas * * *')
 def verificador():
     while True:
