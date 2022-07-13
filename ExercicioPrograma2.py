@@ -1,3 +1,4 @@
+"""Olá. Esse programa calcula os valores das funções SENO e COSSENO através da Série de Taylor."""
 import math
 import time
 
