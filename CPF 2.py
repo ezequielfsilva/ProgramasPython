@@ -1,3 +1,4 @@
+"""Verifica se um CPF digitado é válido ou não"""
 def VerificaCPF():
     m = str(input('Entre com um CPF: '))
     try:
