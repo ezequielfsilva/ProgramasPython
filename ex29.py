@@ -1,4 +1,5 @@
-velocidade = int(input("Digite qual a velocidade do seu carro em KM: "))
+"""Programa que calcula multa para velocidades acima de 80KM/H"""
+velocidade = int(input("Digite qual a velocidade do seu carro em KM/H: "))
 multa = (velocidade - 80)*7
 if velocidade > 80:
     print("\033[1;31mMULTADO!\033[m")
