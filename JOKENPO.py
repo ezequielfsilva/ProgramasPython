@@ -1,3 +1,4 @@
+"""Esse programa simula o famoso jogo JOKENPO"""
 from random import randint
 from time import sleep
 itens = ('Pedra', 'Papel', 'Tesoura')
