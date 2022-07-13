@@ -1,3 +1,4 @@
+"""Olá. Esse programa calcula o valor da função EXPONENCIAL (e*x) através da Série de Taylor."""
 import math
 import time
 print('Olá. Esse programa calcula o valor da função EXPONENCIAL (e*x) através da Série de Taylor.')
