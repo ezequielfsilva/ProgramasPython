@@ -1,3 +1,4 @@
+"""Função Seno e Cosseno calculadas pela Série de Taylor e pela biblioteca math"""
 def sencoss(entradaX, n):
     def fat(k):
         f = 1
