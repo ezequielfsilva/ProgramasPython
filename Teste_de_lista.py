@@ -1,3 +1,4 @@
+"""Testando comandos nas listas"""
 lista = [3, 4, 7, 9, 1]
 a = [3, 6, 0]
 b = a[:]
