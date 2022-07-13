@@ -1,3 +1,4 @@
+"""Gera n números aleatórios no intervalo [a, b)"""
 from random import randrange
 #Gera n números aleatórios no intervalo [a, b)
 def GeraAmostra(limite_inf, limite_sup, elementos_amostra):
